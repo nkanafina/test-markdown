@@ -47,3 +47,4 @@ Computer|380000 |3
 iphone  |500000 |2    
 Pipe    |12000  |1  
 
+![img](img2/image.png)
